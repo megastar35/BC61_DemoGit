@@ -1,0 +1,8 @@
+1. khởi tạo thư mục dự án  thành localRepository: git init
+2. sử dụng lệnh để đưa các file và các sự thay đổi  lên khu vực staging area: git add
+-Git add có 2 kiểu dùng, một là đẩy theo từng file thì sẽ là git add (tên file), hai là đẩy toàn bộ file đã có sự thay đổi hoặc thêm mới thì sử dụng git add, hoặc git add -A 
+3. lệnh giúp kiểm tra các file đã được đẩy lên staging area: git status
+4. lệnh giúp tạo một phiên bản để quản lí các sự thay đổi đã xảy ra, git commit -m "nội dung lời nhắn"
+5. lệnh giúp kết nối remote repo với local repo: git remote add origin (url của remote repo)
+6. lệnh giúp đẩy code từ local repo lên remote repo: 2 trường hợp xảy ra, nếu là lần đầu từ local repo đẩy lên github thì sẽ là git push -u origin (tên nhánh: main hoặc master), git push
+7. lệnh giúp clone 1 bản sao dự án từ trên github về máy tính: git clone (url của remote app)
