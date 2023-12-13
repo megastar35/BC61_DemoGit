@@ -9,6 +9,8 @@
 8. lệnh giúp lấy sự thay đổi mới nhất từ remote repo về máy tính: git pull origin (tên nhánh trên remote app)
 //////
 
-8. lệnh giúp lấy sự thay đổi mới nhất từ remote repo về máy tính: git pull origin (tên nhánh trên remote app)
+//branch
+9. lệnh tạo nhánh mới: git branch (tên nhánh mới)
+10. lệnh giúp chuyển nhanh: git checkout (tên nhánh muốn chuyển)
+11. lệnh giúp tạo nhánh mới và chuyển nhánh mới: git checkout -b (tên nhánh mới)
 
-8. lệnh giúp lấy sự thay đổi mới nhất từ remote repo về máy tính: git pull origin (tên nhánh trên remote app)
