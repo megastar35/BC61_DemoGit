@@ -7,6 +7,7 @@
 6. lệnh giúp đẩy code từ local repo lên remote repo: 2 trường hợp xảy ra, nếu là lần đầu từ local repo đẩy lên github thì sẽ là git push -u origin (tên nhánh: main hoặc master), git push
 7. lệnh giúp clone 1 bản sao dự án từ trên github về máy tính: git clone (url của remote app).
 8. lệnh giúp lấy sự thay đổi mới nhất từ remote repo về máy tính: git pull origin (tên nhánh trên remote app)
+//////
 
 //branch
 9. lệnh tạo nhánh mới: git branch (tên nhánh mới)
